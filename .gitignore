@@ -1,0 +1,10 @@
+*.model/
+*.json
+*.png
+*.zip
+*.tex
+JupyterNotebook2.pdf
+__pycache__
+*.gz
+*.aux
+*.log
